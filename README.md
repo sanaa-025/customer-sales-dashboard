@@ -1,4 +1,5 @@
 # customer-sales-dashboard
+
 Customer Behavior & Sales Insight Interactive Dashboard using Excel. This project analyzes real-world customer shopping data to uncover purchasing patterns, product performance, and sales trends. It includes data cleaning, preprocessing, pivot table analysis, and a visually structured dashboard highlighting key business insights.
 
 **Tools Used**
