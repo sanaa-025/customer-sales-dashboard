@@ -4,21 +4,21 @@ This project presents an end-to-end analysis of customer shopping behavior using
 
 The dashboard provides a comprehensive view of customer demographics, product performance, and seasonal sales trends, enabling data-driven decision-making.
 
-## **Tools & Techniques Used**
+### **Tools & Techniques Used**
 - Microsoft Excel
 - Data Cleaning & Preprocessing
 - Pivot Tables for Data Aggregation
 - Data Visualization (Charts & Dashboarding)
 - Feature Engineering (derived insights from existing variables)
 
-## **Key Analysis Performed**
+### **Key Analysis Performed**
 - Analyzed revenue contribution across customer demographics (Gender, Age groups)
 - Evaluated product category performance to identify top-selling segments
 - Examined seasonal sales patterns to detect demand fluctuations
 - Assessed regional (location-based) sales distribution
 - Investigated the impact of purchasing behavior across different customer segments
 
-## **Key Insights**
+### **Key Insights**
 - Male customers contribute ~68% of total revenue, dominating overall sales. 
 - Clothing is the highest revenue-generating category across all segments. 
 - Sales show consistent trends across seasons with peaks in Fall and Winter. 
